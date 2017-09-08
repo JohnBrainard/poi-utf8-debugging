@@ -1,0 +1,12 @@
+.DS_Store
+target
+build
+.gradle
+.idea
+*.iml
+*.ipr
+*.iws
+
+.shelf
+
+
